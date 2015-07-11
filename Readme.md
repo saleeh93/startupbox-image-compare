@@ -20,4 +20,4 @@ Image
 Compare (Different Image)
 ![Different Image)](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/3-different.PNG)
 Console usage
-![Console usage](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/5.PNG)
+![Console usage](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/console.PNG)
