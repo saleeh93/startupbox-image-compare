@@ -11,8 +11,13 @@ App UI
 ![App UI](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/1-ui-compressed.jpg)
 
 Image
+Compare (Similar Image)
+![Similar Image](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/2-similar.PNG)
+Image
 Compare (Same Image)
-![Same Image](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/2-similar.PNG)
+![Same Image](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/4.PNG)
 Image
 Compare (Different Image)
 ![Different Image)](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/3-different.PNG)
+Console usage
+![Console usage](https://raw.githubusercontent.com/saleeh93/startupbox-image-compare/master/screens/5.PNG)
