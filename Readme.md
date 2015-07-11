@@ -1,8 +1,12 @@
 #Image Compare
 Project is based on .net framework in c# using visual studio
 ##Usage
- 1. Give web url of two images then app will automatically download and Compare image and shows the result
- 2. Command Line usage is also available
+ 1. Clone this Repo
+ 2. open `app/gui/ImageCompare.exe` for GUI
+  1. Give web url of two images then app will automatically download and Compare image and shows the result
+ 3. open `app/console/` in Console
+  1. ImageCompare <url1> <url2>
+
 
 ##Screen
 
