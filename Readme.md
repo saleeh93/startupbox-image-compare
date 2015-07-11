@@ -5,7 +5,7 @@ Project is based on .net framework in c# using visual studio
  2. open `app/gui/ImageCompare.exe` for GUI
   1. Give web url of two images then app will automatically download and Compare image and shows the result
  3. open `app/console/` in Console
-  1. ImageCompare <url1> <url2>
+  1. ImageCompareConsole <url1> <url2>
 
 
 ##Screen
